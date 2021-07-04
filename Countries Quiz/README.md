@@ -10,6 +10,9 @@ The app was improved by fixing all errors and bugs, doing some UI enhancements, 
 
 ## Author
 
-* // User200167
+* // sai navaneeth  
+* // chaitanya
+* // shiva sai
+* // Rakesh
+* // Srija
 
-## License
