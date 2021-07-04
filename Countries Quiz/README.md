@@ -12,8 +12,6 @@ The app was improved by fixing all errors and bugs, doing some UI enhancements, 
 
 ## Author
 
-* Samuel Yanez ~ [samyanez94](https://github.com/samyanez94)
+* // User200167
 
 ## License
-
-MIT © Samuel Yanez
