@@ -6,9 +6,7 @@ QuizApp is an iOS app that prompts the player with multiple choice questions. Fo
 
 The app was improved by fixing all errors and bugs, doing some UI enhancements, creating some custom structs and classes, refactoring according to MVC, accommodating for multiple choices, and creating random non-repeating questions.
 
-## Screenshots
 
-![alt tag](https://i.imgur.com/4H5ZQix.jpg)
 
 ## Author
 
